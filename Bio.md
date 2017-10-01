@@ -3,7 +3,7 @@
 
 # // BIO. 
 
-# _Journal & Conference Papers_
+## _Journal & Conference Papers_
 
 ANDREWS, Simon, BREWSTER, Ben, DAY, Tony (2016) “Organised Crime and Social Media: Detecting and Corroborating Weak-Signals of Human Trafficking Online”, Graph-Based Representation and Reasoning, Lecture Notes in Computer Science, Proceedings of the 22nd International Conference on Conceptual Structures, ICCS 2016, Annecy, France. Springer.
 
@@ -15,11 +15,11 @@ BREWSTER, Ben, ANDREWS, Simon, POLOVINA, Simon, HIRSCH, Laurie, AKHGAR, Babak (2
 
 BREWSTER, Ben, AKHGAR, Babak, STANIFORTH, Andrew, WADDINGTON, David, ANDREWS Simon, JOHNSON-MITCHELL, Sarah. "Towards a model for the integration of knowledge management in law enforcement agencies." International Journal of Electronic Security and Digital Forensics 6, no. 1 (2014): 1-17.
 
-# _Edited Books_
+## _Edited Books_
 
 AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterrorism: Challenges Trends and Priorities, Advanced Sciences and Technologies for Security Applications. Springer. 
 
-# _Book Chapters & Industry Publications_
+## _Book Chapters & Industry Publications_
 
 CHARAMLAMBOUS, Elizavet, KAVALLIEROS, Dimitris, Brewster, Ben, LEVANTAKIS,George, KOUTRAS, Nikolaos, PAPALEXANDRATOS, George (2017). ‘Combatting Cybercrime and Sexual Exploitation of Children: An Open Source Toolkit’, in (eds) Babak AKHGAR, P.Saskia Bayerl and Fraser Sampson, Open Source Intelligence Investigation: From Strategy to Implementation. Advanced Sciences and Technologies for Security Applications. Springer. 
 
