@@ -1,10 +1,7 @@
----
-layout: default
----
 
 [back](./)
 
-## // BIO. 
+# // BIO. 
 
 # _Journal & Conference Papers_
 
