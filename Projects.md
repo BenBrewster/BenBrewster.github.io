@@ -5,6 +5,10 @@
 
 lorum ipsom. 
 
+## _[PhD] Multi-Agency Collaboration to Combat Human Trafficking and Moden Slavery_
+
+lorum ipsom.
+
 ## _Community Policing Game_
 
 lorum ipsom. 
