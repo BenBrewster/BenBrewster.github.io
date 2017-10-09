@@ -5,3 +5,5 @@
 [// Publications](Publications).
 
 [// Projects](Projects).
+
+[// Contact](Contact).
