@@ -18,6 +18,10 @@ BREWSTER, Ben, AKHGAR, Babak, STANIFORTH, Andrew, WADDINGTON, David, ANDREWS Sim
 
 AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterrorism: Challenges Trends and Priorities, Advanced Sciences and Technologies for Security Applications. Springer. 
 
+## _Magazine Articles_
+
+NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) Möglichkeiten der Bekämpfung durch Suche nach Indikatoren in offenen Quellen im Rahmen des von der Europäischen Kommission geförderten Projekts (ePOOLICE Trafficking Human Beings - Illegal trafficking. Means of control by looking for indicators in open sources), BFH Magazin, Baveria.
+
 ## _Book Chapters & Industry Publications_
 
 CHARAMLAMBOUS, Elizavet, KAVALLIEROS, Dimitris, Brewster, Ben, LEVANTAKIS,George, KOUTRAS, Nikolaos, PAPALEXANDRATOS, George (2017). ‘Combatting Cybercrime and Sexual Exploitation of Children: An Open Source Toolkit’, in (eds) Babak AKHGAR, P.Saskia Bayerl and Fraser Sampson, Open Source Intelligence Investigation: From Strategy to Implementation. Advanced Sciences and Technologies for Security Applications. Springer. 
@@ -25,8 +29,6 @@ CHARAMLAMBOUS, Elizavet, KAVALLIEROS, Dimitris, Brewster, Ben, LEVANTAKIS,George
 AKHGAR, Babak, CHORAŚ, Michał, BREWSTER, Benjamin, BOSCO, Francesca, VERMEERSCH, Elise, LUDA, Vittoria, PUCHALSKI, Damian and WELLS, Douglas (2016). Consolidated Taxonomy and Research Roadmap for Cybercrime and Cyberterrorism. In: AKHGAR, Babak and BREWSTER, Benjamin, (eds.) Combatting Cybercrime and Cyberterrorism. Springer, 295-321.
 
 WELLS, Douglas, BREWSTER, Benjamin and AKHGAR, Babak (2016). Challenges Priorities and Policies: Mapping the Research Requirements of Cybercrime and Cyberterrorism Stakeholders. In: AKHGAR, Babak and BREWSTER, Benjamin, (eds.) Combatting Cybercrime and Cyberterrorism. Springer, 39-51.
-
-NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) Möglichkeiten der Bekämpfung durch Suche nach Indikatoren in offenen Quellen im Rahmen des von der Europäischen Kommission geförderten Projekts (ePOOLICE Trafficking Human Beings - Illegal trafficking. Means of control by looking for indicators in open sources), BFH Magazin, Baveria (Internal Policing Publication).
 
 BREWSTER, Ben, KEMP, Benn, GALAHBAKHTIARI, Sara, AKHGAR, Babak (2015) "Cybercrime: Attack Motivations and Implications for Big Data and National Security" in (eds) Babak AKHGAR, Gregory B. Saathoff, Hamid R. Arabnia, Richard Hill, Andrew Staniforth, Petra Saskia Bayerl, Application of Big Data for National Security: A Practitioners Guide to Emerging Technologies. Elsevier.
 
