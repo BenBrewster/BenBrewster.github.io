@@ -3,7 +3,7 @@
 
 # // PROJECTS. 
 
-Here's a selection of the projects i've worked on! 
+Here's a selection of the projects i've worked on! Click on the headings for more detail about each project. 
 
 ## [_MULTI AGENCY RESPONSES TO HUMAN TRAFFICKING AND MODERN SLAVERY_](phd).
 
@@ -11,23 +11,22 @@ I'm currently working to finalise my PhD Thesis focusing on the use of multi-age
 
 ## [_AeSOP_](aesop).
 
-With AEsOP (Applied Engagement for Community Particpation) we set out with the intention of developing an educational game to raise awareness of community policing within communities. 
+With AEsOP (Applied Engagement for Community Particpation) i'm working to design an educational videogame to raise awareness of community policing with groups such as vulnerable groups and children. 
 
 ## [_UNITY_](unity).
 
-lorum ipsom. 
+In UNITY i looked into the role of technology as a means to improve the engagement and collaboration between the police and the communities they serve. 
 
 ## [_COURAGE_](courage).
 
-lorum ipsom. 
+In COURAGE, ii worked with the European Commission to define the future research agenda for cybercrime in the EU.  
 
 ## [_EPOOLICE_](epoolice).
 
-lorum ipsom. 
+ePOOLICE i helped research how the web and social media could be leveraged to help prevent crime, focusing specifically on Human Trafficking and drug crime. 
 
 ## [_UINFC2_](uinfc2)
 
-lorum ipsom. 
-
+In UINFC2, I hepled investigate how advanced tehnological tools might be used to help prevent the sexual exploitaiton of children online. 
 
 [back](./)
