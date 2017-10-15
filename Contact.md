@@ -8,12 +8,11 @@
 
 If you'd like to get in touch directly, please complete the form below and i'll get back to you as soon as I can :)
 
-<form method="POST" action="http://formspree.io/addemail@email.com">
-    <input type="email" name="email" placeholder="Your email">
-    <textarea name="message" placeholder="Your message"></textarea>
+<form id="contactform" method="POST" action="http://formspree.io/addemail@email.com">
+    <input class="field" type="email" name="email" placeholder="Your email">
+    <textarea class="field" name="message" placeholder="Your message"></textarea>
     <button type="submit">Send</button>
 </form>
-
 
 ## _Social Media._
 
@@ -33,3 +32,13 @@ View my research profile on ORCID:
 
 
 [back](./)
+
+<style>
+#contactform {
+}
+.field {
+margin-bottom: 10px;
+width: 100px;}
+.button {
+}
+</style>
