@@ -7,4 +7,4 @@
 
 [// Contact](Contact).
 
-My website is under constructions so please bear with me while i work out the kinks :) 
+_My website is under construction so please bear with me while i work out the kinks_ :) 
