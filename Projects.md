@@ -25,7 +25,7 @@ In COURAGE, ii worked with the European Commission to define the future research
 
 ePOOLICE i helped research how the web and social media could be leveraged to help prevent crime, focusing specifically on Human Trafficking and drug crime. 
 
-## [_UINFC2_](uinfc2)
+## [_UINFC2_](uinfc2).
 
 In UINFC2, I hepled investigate how advanced tehnological tools might be used to help prevent the sexual exploitaiton of children online. 
 
