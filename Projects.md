@@ -5,11 +5,11 @@
 
 Here's a selection of the projects i've worked on! 
 
-## [_MULTI AGENCY RESPONSES TO HUMAN TRAFFICKING AND MODERN SLAVERY_](projects\phd).
+## [_MULTI AGENCY RESPONSES TO HUMAN TRAFFICKING AND MODERN SLAVERY_](phd).
 
 I'm currently working to finalise my PhD Thesis focusing on the use of multi-agency partnerships to tackle Human Traficking and Modern Slavery in the UK. The proliferation and far reaching impact of Modern Slavery and Human Trafficking and its perception as a high profit, low risk crime has, in recent years, driven it towards the top of the UK’s serious and organised crime strategy, in turn cascading it down into the plans of Police and Crime Commissioners nationally.
 
-## [_AeSOP_](projects\aesop).
+## [_AeSOP_](aesop).
 
 Applied Engagement for Community Particpation. 
 
@@ -17,19 +17,19 @@ With AEsOP we set out with the intention of developing an educational game to ra
 
 For this project, I took overall responsibility for the design of the game itself, running a number of co-design workshops with community engagement practitioners to ensure its alignment with real-world needs. I also wrote and designed each of the games scenarios, making sure the issues realised in the game are indicative of true to life community issues. We hope to have the game completed in Q1 2018, at which point I would like to trial its use as an education and research tool with community groups and schools in raising awareness of local policing issues and avenues for citizen engagement. 
 
-## [_UNITY_](projects\unity).
+## [_UNITY_](unity).
 
 lorum ipsom. 
 
-## [_COURAGE_](projects\courage).
+## [_COURAGE_](courage).
 
 lorum ipsom. 
 
-## [_EPOOLICE_](projects\epoolice).
+## [_EPOOLICE_](epoolice).
 
 lorum ipsom. 
 
-## [_UINFC2_](projects\uinfc2)
+## [_UINFC2_](uinfc2)
 
 lorum ipsom. 
 
