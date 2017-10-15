@@ -5,4 +5,6 @@
 
 I am currently a Research Fellow and PhD candidate at Sheffield Hallam University in the UK, working within the Communication and Computing Research Centre’s (CCRC) Centre of Excellence in Terrorism, Resilience, Intelligence and Organised Crime Research (CENTRIC) Institute. I maintain a primary research interest in Human Trafficking and Modern Slavery (HTMDS), in particular investigating the role and impact of multi-agency approaches to combat the problem in the UK, a topic which forms the central focus of my PhD thesis. Using one of the UK’s first dedicated anti-trafficking teams as a primary case study, my thesis aims to elicit deeper understanding of the collaborative multi-agency measures being taken to protect and safeguard vulnerable and marginalized groups from exploitation. 
 
+<a href="https://orcid.org/0000-0003-3536-5862" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-3536-5862</a>
+
 [back](./)
