@@ -10,7 +10,9 @@ If you'd like to get in touch directly, please complete the form below and i'll 
 
 <form method="POST" action="http://formspree.io/brewsterben@me.com">
 <input type="email" name="email" placeholder="Your email">
+
 <textarea name="message" placeholder="Your message"></textarea>
+
 <button type="submit">Send</button>
 </form>
 
