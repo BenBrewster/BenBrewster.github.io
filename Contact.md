@@ -16,8 +16,9 @@ If you'd like to get in touch directly, please complete the form below and i'll 
 
 ## _Social Media._
 
-Instagram: 
-Twitter: 
+ [![Instagram](InstaIcon.png)](https://www.instagram.com/BrewsterBen_/)
+ [![Twitter](TwitterIcon.png)](https://twitter.com/BenBrewster__)
+
 
 ## _ORCID._
 View my research profile on ORCID: 
