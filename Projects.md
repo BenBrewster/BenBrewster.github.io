@@ -17,14 +17,20 @@ The project seeks to address part of the conceptual and practical underpinning o
 Throughout the study, the discipline of ‘Knowledge Management’ is used as a lens through which to explore and explain the effectiveness of communication, information and intelligence exchange, and collaboration between both the police and partner agencies. By considering factors such as these, the study aims to develop an appreciation of the mechanisms that enable the effective investigation of Human Trafficking and Modern Slavery in terms of proactive intelligence acquisition, investigative response and the recovery and safeguarding of victims, including the impact of the National Referral Mechanism (NRM), the NRM Pilot, and the role of anti-trafficking organisations and other NGO's in the rehabilitation and recovery of victims, as part of a truly collaborative multi-agency model of working. The findings of the study are based up a collection of field observations, interviews and document artefacts, such as intelligence products, policy documents, investigation summaries and process maps as well as an appreciation of the existing research and evidence-base around the policing of organised crime and efforts to combat Human Trafficking and Modern Slavery. 
 
 While still ongoing, to date the research has unpacked challenges including those associated with;
+
 // The capture and recording of crimes and intelligence, including the role of frontline staff from charities and safeguarding agencies in building trust with vulnerable communities. 
+
 // Knowledge and awareness gaps across public and private sector organisations, including frontline police officers, and the public in recognising the indicators of human trafficking and slavery, and in understanding the full scale of crime and exploitation that stems from them. 
+
 // The cultural and organisational dynamics of effective multi-agency partnership working. 
+
 // The NRM process and measures being taken to support and safeguard victims. 
+
 // Investigative challenges and international cooperation including the use of joint-investigations teams and cooperation with the Crown Prosecution Service (CPS). 
+
 // Gaps in the current intelligence picture at national, regional and local levels, understanding why the gaps exist and the measures being taken to address them and mitigate their impact.
 
-## _AeSOP_
+## [_AeSOP_](projects\aesop).
 
 Applied Engagement for Community Particpation. 
 
@@ -32,19 +38,19 @@ With AEsOP we set out with the intention of developing an educational game to ra
 
 For this project, I took overall responsibility for the design of the game itself, running a number of co-design workshops with community engagement practitioners to ensure its alignment with real-world needs. I also wrote and designed each of the games scenarios, making sure the issues realised in the game are indicative of true to life community issues. We hope to have the game completed in Q1 2018, at which point I would like to trial its use as an education and research tool with community groups and schools in raising awareness of local policing issues and avenues for citizen engagement. 
 
-## _UNITY_
+## [_UNITY_](projects\unity).
 
 lorum ipsom. 
 
-## _COURAGE_
+## [_COURAGE_](projects\courage).
 
 lorum ipsom. 
 
-## _EPOOLICE_ 
+## [_EPOOLICE_](projects\epoolice).
 
 lorum ipsom. 
 
-## _UINFC2_
+## [_UINFC2_](projects\uinfc2)
 
 lorum ipsom. 
 
