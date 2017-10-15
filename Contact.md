@@ -16,8 +16,8 @@ If you'd like to get in touch directly, please complete the form below and i'll 
 
 ## _Social Media._
 
- [![Instagram](InstaIcon.png)](https://www.instagram.com/BrewsterBen_/)
- [![Twitter](TwitterIcon.png)](https://twitter.com/BenBrewster__)
+ [![Instagram](InstaIcon.png =80x)](https://www.instagram.com/BrewsterBen_/)
+ [![Twitter](TwitterIcon.png =80x)](https://twitter.com/BenBrewster__)
 
 
 ## _ORCID._
