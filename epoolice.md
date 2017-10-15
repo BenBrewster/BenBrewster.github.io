@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 [back](./)
 
- # // EPOOLICE. 
+# // EPOOLICE. 
  
  
  [back](./)

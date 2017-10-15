@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 [back](./)
  
- # // COURAGE. 
+# // COURAGE. 
  
  
  [back](./)
