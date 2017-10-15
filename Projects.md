@@ -5,7 +5,8 @@
 
 Here's a selection of the projects i've worked on! 
 
-## _Multi-Agency Collaboration to Combat Human Trafficking and Moden Slavery_
+[## _Multi-Agency Collaboration to Combat Human Trafficking and Moden Slavery_](phd).
+
 
 I'm currently working to finalise my PhD Thesis focusing on the use of multi-agency partnerships to tackle Human Traficking and Modern Slavery in the UK. The proliferation and far reaching impact of Modern Slavery and Human Trafficking and its perception as a high profit, low risk crime has, in recent years, driven it towards the top of the UK’s serious and organised crime strategy, in turn cascading it down into the plans of Police and Crime Commissioners nationally. 
 
