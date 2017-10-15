@@ -16,13 +16,13 @@ If you'd like to get in touch directly, please complete the form below and i'll 
 
 ## _Social Media._
 
-[// Linkedin.](https://uk.linkedin.com/in/brewsterben/)
+[// Linkedin](https://uk.linkedin.com/in/brewsterben/).
 
 
-[// Instagram.](https://www.instagram.com/BrewsterBen_/)
+[// Instagram](https://www.instagram.com/BrewsterBen_/).
 
 
-[// Twitter.](https://twitter.com/BenBrewster__/)
+[// Twitter](https://twitter.com/BenBrewster__/).
 
 
 ## _ORCID._
