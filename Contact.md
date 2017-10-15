@@ -8,13 +8,12 @@
 
 If you'd like to get in touch directly, please complete the form below and i'll get back to you as soon as I can :)
 
-<form action="https://formspree.io/brewsterben@me.com"<input type="name" name="email" placeholder="Your Name">
-
+<form action="https://formspree.io/brewsterben@me.com"
+<input type="name" name="email" placeholder="Your Name">
 <input type="email" name="email" placeholder="Your Email">
-
 <textarea name="message" placeholder="Your message"></textarea>
-
-<button type="submit">Send</button></form>
+<button type="submit">Send</button>
+</form>
 
 ## _Social Media._
 
