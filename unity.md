@@ -2,7 +2,7 @@
 
 # // UNITY. 
  
-### Strengthening the connection between the police and local communities 
+### Strengthening the connection between the police and local communities.
 
  UNITY was established on the principle that across Europe, communities, despite their varying social, cultural, geographic and ethnic differences, have common and shared values in their requirements for their own safety, security and wellbeing. While this is true, the companies that endeavour to provide these services often struggle to connect with the communities and citizens they serve. Despite the maturity and in many cases near ubiquity of technology as a means of digital connectivity, the full potential of this is not really being met when the police consider how best to engage effectively with those residing in their local communities. The end result being that opportunities are being missed to enhance community cohesion through the sharing of information that may help to ensure the safety and security of citizens. 
  

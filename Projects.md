@@ -9,7 +9,7 @@ Here's a selection of the projects i've worked on! Click on the headings for mor
 
 I'm currently working to finalise my PhD Thesis focusing on the use of multi-agency partnerships to tackle Human Traficking and Modern Slavery in the UK. 
 
-## [_AeSOP_](aesop).
+## [_AEsOP_](aesop).
 
 With AEsOP (Applied Engagement for Community Particpation) i'm working to design an educational videogame to raise awareness of community policing with groups such as vulnerable groups and children. 
 
