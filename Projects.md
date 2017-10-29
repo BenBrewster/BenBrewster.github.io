@@ -15,15 +15,15 @@ With AEsOP (Applied Engagement for Community Particpation) i'm working to design
 
 ## [_UNITY_](unity).
 
-In UNITY i looked into the role of technology as a means to improve the engagement and collaboration between the police and the communities they serve. 
+In UNITY I looked into the role of technology as a means to improve the engagement and collaboration between the police and the communities they serve. 
 
 ## [_COURAGE_](courage).
 
-In COURAGE, ii worked with the European Commission to define the future research agenda for cybercrime in the EU.  
+In COURAGE, I worked with the European Commission to define the future research agenda for cybercrime in the EU.  
 
 ## [_EPOOLICE_](epoolice).
 
-ePOOLICE i helped research how the web and social media could be leveraged to help prevent crime, focusing specifically on Human Trafficking and drug crime. 
+In ePOOLICE I looked into how information posted on the web and social media could be leveraged to help prevent crime, focusing specifically on Human Trafficking and drug crime. 
 
 ## [_UINFC2_](uinfc2).
 
