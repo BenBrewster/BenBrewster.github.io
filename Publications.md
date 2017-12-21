@@ -20,6 +20,8 @@ AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterror
 
 ## _Magazine Articles_
 
+ MARZELL, Laurence, BREWSTER, Ben (2017) 'Building safer societies: A framework for trust'. Crsis Response Journal. 13(1) pp.80-82. https://www.crisis-response.com/news/news.php?article=1468
+ 
 NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) Möglichkeiten der Bekämpfung durch Suche nach Indikatoren in offenen Quellen im Rahmen des von der Europäischen Kommission geförderten Projekts (ePOOLICE Trafficking Human Beings - Illegal trafficking. Means of control by looking for indicators in open sources), BFH Magazin, Baveria.
 
 ## _Book Chapters & Industry Publications_
