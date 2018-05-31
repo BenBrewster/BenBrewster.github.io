@@ -24,8 +24,10 @@ AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterror
  
 NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) "Möglichkeiten der Bekämpfung durch Suche nach Indikatoren in offenen Quellen im Rahmen des von der Europäischen Kommission geförderten Projekts (ePOOLICE Trafficking Human Beings - Illegal trafficking. Means of control by looking for indicators in open sources)." BFH Magazin, Baveria.
 
-## _Book Chapters & Industry Publications_
+## _Book Chapters_
 
+ BREWSTER, Ben, GIBSON, Helen, GUNNING, Mike (2018). "Policing the Community Together: The Impact of Technology on Citizen Engagement." in (eds) LEVENTAKIS, George and HABERFELD, M.R, Societal Implications of Community-Oriented Policing and Technology. Springer 
+ 
 CHARAMLAMBOUS, Elizavet, KAVALLIEROS, Dimitris, Brewster, Ben, LEVANTAKIS,George, KOUTRAS, Nikolaos, PAPALEXANDRATOS, George (2017). "Combatting Cybercrime and Sexual Exploitation of Children: An Open Source Toolkit." in (eds) Babak AKHGAR, P.Saskia Bayerl and Fraser Sampson, Open Source Intelligence Investigation: From Strategy to Implementation. Advanced Sciences and Technologies for Security Applications. Springer. 
 
 AKHGAR, Babak, CHORAŚ, Michał, BREWSTER, Benjamin, BOSCO, Francesca, VERMEERSCH, Elise, LUDA, Vittoria, PUCHALSKI, Damian and WELLS, Douglas (2016). "Consolidated Taxonomy and Research Roadmap for Cybercrime and Cyberterrorism." In: AKHGAR, Babak and BREWSTER, Benjamin, (eds.) Combatting Cybercrime and Cyberterrorism. Springer, 295-321.
