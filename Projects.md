@@ -5,13 +5,17 @@
 
 Here's a selection of the projects i've worked on! Click on the headings for more detail about each project. 
 
+## [_MIICT_] (miict).
+
+I'm the primary investigator on MIICT, an EU H2020 project looking to re-design frontline public services to improve access for migrants and refugees.
+
 ## [_MULTI AGENCY RESPONSES TO HUMAN TRAFFICKING AND MODERN SLAVERY_](phd).
 
 I'm currently working to finalise my PhD Thesis focusing on the use of multi-agency partnerships to tackle Human Traficking and Modern Slavery in the UK. 
 
 ## [_AEsOP_](aesop).
 
-With AEsOP (Applied Engagement for Community Particpation) i'm working to design an educational videogame to raise awareness of community policing with groups such as vulnerable groups and children. 
+With AEsOP (Applied Engagement for Community Particpation) i worked to design an educational videogame to raise awareness of community policing with vulnerable groups and children. 
 
 ## [_UNITY_](unity).
 

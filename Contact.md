@@ -6,23 +6,25 @@
 
 ## _Send me a message._
 
-If you'd like to get in touch directly, please complete the form below and i'll get back to you as soon as I can :)
+If you'd like to get in touch directly, please contact me via one of the platforms listed below and i'll get back to you as soon as I can :)
 
-<form id="contactform" method="POST" action="http://formspree.io/addemail@email.com">
-    <input type="email" name="email" placeholder="Your email">
-    <textarea name="message" placeholder="Your message"></textarea>
-    <button type="submit">Send</button>
-</form>
 
 ## _Social Media._
 
 [// Linkedin](https://uk.linkedin.com/in/brewsterben/).
 
+[// Twitter](https://twitter.com/BenBrewster__/).
 
 [// Instagram](https://www.instagram.com/BrewsterBen_/).
 
+## _Web._
 
-[// Twitter](https://twitter.com/BenBrewster__/).
+
+[// N8 Policing Research Partnership] (https://n8prp.org.uk/user/benbrewster/).
+
+[// CENTRIC (Centre of Excellence in Terrorism, Resilience, Intelligence and Organised Crime Research)] (https://research.shu.ac.uk/centric/staff/ben-brewster/).
+
+[// Researchgate] (https://www.researchgate.net/profile/Ben_Brewster5). 
 
 
 ## _ORCID._

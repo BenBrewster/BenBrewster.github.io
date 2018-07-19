@@ -16,7 +16,7 @@ BREWSTER, Ben, AKHGAR, Babak, STANIFORTH, Andrew, WADDINGTON, David, ANDREWS Sim
 
 ## _Edited Books_
 
-AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterrorism: Challenges Trends and Priorities, Advanced Sciences and Technologies for Security Applications. Springer. 
+AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterrorism: Challenges Trends and Priorities, Advanced Sciences and Technologies for Security Applications. Springer.
 
 ## _Magazine Articles_
 
