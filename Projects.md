@@ -5,7 +5,7 @@
 
 Here's a selection of the projects i've worked on! Click on the headings for more detail about each project. 
 
-## [_MIICT_] (miict).
+## [_MIICT_](miict).
 
 I'm the primary investigator on MIICT, an EU H2020 project looking to re-design frontline public services to improve access for migrants and refugees.
 
