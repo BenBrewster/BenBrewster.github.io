@@ -20,11 +20,11 @@ If you'd like to get in touch directly, please contact me via one of the platfor
 ## _Web._
 
 
-[// N8 Policing Research Partnership] (https://n8prp.org.uk/user/benbrewster/).
+[// N8 Policing Research Partnership](https://n8prp.org.uk/user/benbrewster/).
 
-[// CENTRIC (Centre of Excellence in Terrorism, Resilience, Intelligence and Organised Crime Research)] (https://research.shu.ac.uk/centric/staff/ben-brewster/).
+[// CENTRIC (Centre of Excellence in Terrorism, Resilience, Intelligence and Organised Crime Research)](https://research.shu.ac.uk/centric/staff/ben-brewster/).
 
-[// Researchgate] (https://www.researchgate.net/profile/Ben_Brewster5). 
+[// Researchgate](https://www.researchgate.net/profile/Ben_Brewster5). 
 
 
 ## _ORCID._
