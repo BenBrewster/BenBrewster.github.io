@@ -4,6 +4,12 @@
 
 ## _Journal & Conference Papers_
 
+BREWSTER, Ben (2019) “Collaborating to identify, recover and support victims of modern slavery”, Journal of Modern Slavery (forthcoming).
+
+NITSCH, Holger, BREWSTER, Ben (2018) "Maximising the security and safety of citizens by strengthening the connection between the Police and the communities they serve." In Nogala, D. et al. (eds.), Innovations in Law Enforcement - Implications for practice, education and training. Contributions to the 2017 CEPOL Research and Science Conference, 28-30 November 2017, Budapest, Hungary. Special Conference Edition Nr. 4 of the European Law Enforcement Research Bulletin. https://bulletin.cepol.europa.eu/index.php/bulletin/issue/view/25
+
+ANDREWS, Simon, BREWSTER, Ben, DAY, Tony (2019) "Organised Crime and Social Media: A system for detecting, corroborating and visualising weak signals of organised crime online". Security Informatics. Springer (forthcoming). 
+
 ANDREWS, Simon, BREWSTER, Ben, DAY, Tony (2016) “Organised Crime and Social Media: Detecting and Corroborating Weak-Signals of Human Trafficking Online”, Graph-Based Representation and Reasoning, Lecture Notes in Computer Science, Proceedings of the 22nd International Conference on Conceptual Structures, ICCS 2016, Annecy, France. Springer.
 
 BREWSTER, Ben, INGLE, Timothy, RANKIN, Glynn (2014) “Crawling Open-source Data for Indicators of Human Trafficking,” IEEE/ACM 7th International Conference on Utility and Cloud Computing (UCC). pp.714-719, 8-11 Dec. 2014. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7027583
@@ -20,13 +26,15 @@ AKHGAR, Babak, BREWSTER, Ben (Eds.) (2016) Combatting Cybercrime and Cyberterror
 
 ## _Magazine Articles_
 
- MARZELL, Laurence, BREWSTER, Ben (2017) "Building safer societies: A framework for trust." Crisis Response Journal. 13(1) pp.80-82. https://www.crisis-response.com/news/news.php?article=1468
+MARZELL, Laurence, BREWSTER, Ben (2017) "Building safer societies: A framework for trust." Crisis Response Journal. 13(1) pp.80-82. https://www.crisis-response.com/news/news.php?article=1468
  
 NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) "Möglichkeiten der Bekämpfung durch Suche nach Indikatoren in offenen Quellen im Rahmen des von der Europäischen Kommission geförderten Projekts (ePOOLICE Trafficking Human Beings - Illegal trafficking. Means of control by looking for indicators in open sources)." BFH Magazin, Baveria.
 
 ## _Book Chapters_
 
- BREWSTER, Ben, GIBSON, Helen, GUNNING, Mike (2018). "Policing the Community Together: The Impact of Technology on Citizen Engagement." in (eds) LEVENTAKIS, George and HABERFELD, M.R, Societal Implications of Community-Oriented Policing and Technology. Springer 
+MARZELL, Laurence, BREWSTER, Ben (2019) "A Framework for Trust. Building a bedrock of trust between citizens, law enforcement and other stakeholders; a scalable transferable architecture for community policing. In (eds.) AKHGAR, Babak, WADDINGTON, Dave & BAYERL, Petra-Saskia, Social Media in Policing. Springer. 
+
+BREWSTER, Ben, GIBSON, Helen, GUNNING, Mike (2018). "Policing the Community Together: The Impact of Technology on Citizen Engagement." in (eds) LEVENTAKIS, George and HABERFELD, M.R, Societal Implications of Community-Oriented Policing and Technology. Springer 
  
 CHARAMLAMBOUS, Elizavet, KAVALLIEROS, Dimitris, Brewster, Ben, LEVANTAKIS,George, KOUTRAS, Nikolaos, PAPALEXANDRATOS, George (2017). "Combatting Cybercrime and Sexual Exploitation of Children: An Open Source Toolkit." in (eds) Babak AKHGAR, P.Saskia Bayerl and Fraser Sampson, Open Source Intelligence Investigation: From Strategy to Implementation. Advanced Sciences and Technologies for Security Applications. Springer. 
 

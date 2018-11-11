@@ -15,14 +15,15 @@ If you'd like to get in touch directly, please contact me via one of the platfor
 
 [// Twitter](https://twitter.com/BenBrewster__/).
 
-[// Instagram](https://www.instagram.com/BrewsterBen_/).
-
 ## _Web._
 
+[// Anti Slavery Early Research Association](https://antislaveryera.com/researchers/ben-brewster/). 
 
 [// N8 Policing Research Partnership](https://n8prp.org.uk/user/benbrewster/).
 
 [// CENTRIC (Centre of Excellence in Terrorism, Resilience, Intelligence and Organised Crime Research)](https://research.shu.ac.uk/centric/staff/ben-brewster/).
+
+[// Sheffield Hallam University](https://www.shu.ac.uk/about-us/our-people/staff-profiles/ben-brewster).
 
 [// Researchgate](https://www.researchgate.net/profile/Ben_Brewster5). 
 
