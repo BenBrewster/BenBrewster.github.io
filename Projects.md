@@ -3,13 +3,17 @@
 
 # // PROJECTS. 
 
-Here's a selection of the projects i've worked on! Click on the headings for more detail about each project. 
+Here's a selection of the projects i've worked on! Click on the headings for more detail about each project.
+
+## [_Slavery Free Communities_](slavery free communities). 
+
+I work on the Slavery Free Communities Programme at the Rights Lab 
 
 ## [_MIICT_](miict).
 
-I'm the primary investigator on MIICT, an EU H2020 project looking to re-design frontline public services to improve access for migrants and refugees.
+I'm was the primary investigator on MIICT, an EU H2020 project looking to re-design frontline public services to improve access for migrants and refugees.
 
-## [_MULTI AGENCY RESPONSES TO HUMAN TRAFFICKING AND MODERN SLAVERY_](phd).
+## [_Multi-Agency Responses to Modern Slavery_](phd).
 
 I'm currently working to finalise my PhD Thesis focusing on the use of multi-agency partnerships to tackle Human Traficking and Modern Slavery in the UK. 
 
