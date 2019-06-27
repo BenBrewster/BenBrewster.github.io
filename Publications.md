@@ -4,11 +4,11 @@
 
 ## _Journal & Conference Papers_
 
-BREWSTER, Ben (2019) “Collaborating to identify, recover and support victims of modern slavery”, Journal of Modern Slavery (forthcoming).
+BREWSTER, Ben (2019) “Collaborating to identify, recover and support victims of modern slavery”, Journal of Modern Slavery 4(2), 200-224.
 
 NITSCH, Holger, BREWSTER, Ben (2018) "Maximising the security and safety of citizens by strengthening the connection between the Police and the communities they serve." In Nogala, D. et al. (eds.), Innovations in Law Enforcement - Implications for practice, education and training. Contributions to the 2017 CEPOL Research and Science Conference, 28-30 November 2017, Budapest, Hungary. Special Conference Edition Nr. 4 of the European Law Enforcement Research Bulletin. https://bulletin.cepol.europa.eu/index.php/bulletin/issue/view/25
 
-ANDREWS, Simon, BREWSTER, Ben, DAY, Tony (2019) "Organised Crime and Social Media: A system for detecting, corroborating and visualising weak signals of organised crime online". Security Informatics. Springer (forthcoming). 
+ANDREWS, Simon, BREWSTER, Ben, DAY, Tony (2018) "Organised Crime and Social Media: A system for detecting, corroborating and visualising weak signals of organised crime online". Security Informatics. 7(1). Springer.
 
 ANDREWS, Simon, BREWSTER, Ben, DAY, Tony (2016) “Organised Crime and Social Media: Detecting and Corroborating Weak-Signals of Human Trafficking Online”, Graph-Based Representation and Reasoning, Lecture Notes in Computer Science, Proceedings of the 22nd International Conference on Conceptual Structures, ICCS 2016, Annecy, France. Springer.
 
