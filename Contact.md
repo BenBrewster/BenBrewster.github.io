@@ -17,7 +17,7 @@ If you'd like to get in touch directly, please contact me via one of the platfor
 
 ## _Web._
 
-[// Rights Lab, University of Nottingham] (https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-experts/index.aspx/)
+[// Rights Lab, University of Nottingham] (https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-experts/).
 
 [// Anti Slavery Early Research Association](https://antislaveryera.com/researchers/ben-brewster/). 
 
