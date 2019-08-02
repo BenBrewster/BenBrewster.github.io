@@ -17,13 +17,11 @@ If you'd like to get in touch directly, please contact me via one of the platfor
 
 ## _Web._
 
-[// Rights Lab, University of Nottingham] (https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-experts/).
+[// Rights Lab University of Nottingham] (https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/).
 
 [// Anti Slavery Early Research Association](https://antislaveryera.com/researchers/ben-brewster/). 
 
 [// N8 Policing Research Partnership](https://n8prp.org.uk/user/benbrewster/).
-
-[// CENTRIC (Centre of Excellence in Terrorism, Resilience, Intelligence and Organised Crime Research)](https://research.shu.ac.uk/centric/staff/ben-brewster/).
 
 [// Researchgate](https://www.researchgate.net/profile/Ben_Brewster5). 
 
