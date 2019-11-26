@@ -32,7 +32,7 @@ NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) "Möglichkeiten der Bekämp
 
 ## _Book Chapters_
 
-MARZELL, Laurence, BREWSTER, Ben (2019) "Building a Bedrock of Trust Between Citizens, Law Enforcement and Other Stakeholders: A Scalable Architecture for Community Policing". In (eds.) AKHGAR, Babak, BAYERL, Petra-Saskia & LEVANTAKIS, George. Social Media Strategy in Policing. Springer. 
+MARZELL, Laurence, BREWSTER, Ben (2019) "Building a Bedrock of Trust Between Citizens, Law Enforcement and Other Stakeholders: A Scalable Architecture for Community Policing". In (eds.) AKHGAR, Babak, BAYERL, Petra-Saskia & LEVANTAKIS, George. Social Media Strategy in Policing. Springer. 139-158
 
 BREWSTER, Ben, GIBSON, Helen, GUNNING, Mike (2018). "Policing the Community Together: The Impact of Technology on Citizen Engagement." in (eds) LEVENTAKIS, George and HABERFELD, M.R, Societal Implications of Community-Oriented Policing and Technology. Springer 
  
