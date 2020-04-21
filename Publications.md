@@ -50,5 +50,8 @@ BAYERL, Petra Saskia, STANIFORTH, Andrew, AKHGAR, Babak, BREWSTER, Ben, Johnson 
 
 HASSANZADEH, Mohammed, JAHANGIRI, Narges, BREWSTER, Ben (2013). "A Conceptual Framework For Information Security Awareness, Assessment, and Training." in (eds) Babak AKHGAR and Hamid ARABNIA, Emerging Trends in ICT Security. 
 
+## _Theses_
+
+BREWSTER, Ben (2019). Modern slavery in the UK: the role and impact of multi-agency collaboration. Doctoral, Sheffield Hallam University.
 
 [back](./)
