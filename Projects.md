@@ -15,7 +15,7 @@ I'm was the primary investigator on MIICT, an EU H2020 project looking to re-des
 
 ## [_Multi-Agency Responses to Modern Slavery_](phd).
 
-I'm currently working to finalise my PhD Thesis focusing on the use of multi-agency partnerships to tackle Human Traficking and Modern Slavery in the UK. 
+My PhD Thesis (awarded 2019) sought to explore the use of place-based multi-agency partnerships in response to the introduction of the UKs Modern Slavery Act in 2015.  
 
 ## [_AEsOP_](aesop).
 
