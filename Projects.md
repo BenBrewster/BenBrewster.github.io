@@ -5,9 +5,17 @@
 
 Here's a selection of the projects i've worked on! Click on the headings for more detail about each project.
 
+## [_Innovate to perpetrate: the use of the internet to facilitate modern slavery_](nrf)
+
+I currently hold a Nottingham Reserch Fellowship (2020-2013) investigating the role that online communities and social spaces play in modern slavery and human trafficking. 
+
+## [_COVID-19 and Child Criminal Exploitation_](covidCCE)
+
+UKRI funded research studying the impacts of the pandemic on Child Criminal Exploitation and County Lines drug supply.
+
 ## [_Slavery Free Communities_](slavery free communities). 
 
-I work on the Slavery Free Communities Programme at the Rights Lab 
+I work as part of the Slavery Free Communities Programme at the University of Nottingham's Rights Lab.
 
 ## [_MIICT_](miict).
 
