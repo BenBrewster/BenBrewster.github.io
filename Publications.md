@@ -30,6 +30,15 @@ MARZELL, Laurence, BREWSTER, Ben (2017) "Building safer societies: A framework f
  
 NITSCH, Holger, INGLE, Timothy, BREWSTER, Ben (2015) "Möglichkeiten der Bekämpfung durch Suche nach Indikatoren in offenen Quellen im Rahmen des von der Europäischen Kommission geförderten Projekts (ePOOLICE Trafficking Human Beings - Illegal trafficking. Means of control by looking for indicators in open sources)." BFH Magazin, Baveria.
 
+## _Reports_
+
+BREWSTER, Ben, ROBINSON, Grace, BROTHERTON, Vicky, SILVERMAN, Bernard, WALSH, Dave (2020) "The Impact of COVID-19 on Child Criminal Exploitation - An Interim Research Briefing, October 2020". https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/mseu/mseu-resources/2020/november/briefing-the-impact-of-covid-19-on-child-criminal-exploitation.pdf
+
+NORTHALL, Phil, GARDNER, Alison, BREWSTER, Ben (2020) "Partnerships for Freedom: Improving Multi-Agency Collaboration on Modern Slavery". https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/mseu/mseu-resources/2020/september/partnerships-for-freedom.pdf
+
+GARDNER, Alison, BREWSTER, Ben (2020) "The Clewer Initiative - An Appreciative Inquiry". https://iasctoolkit.nottingham.ac.uk/download/the-clewer-initiative-an-appreciative-inquiry/?wpdmdl=722&refresh=5fb185c10f5051605469633
+
+
 ## _Book Chapters_
 
 MARZELL, Laurence, BREWSTER, Ben (2019) "Building a Bedrock of Trust Between Citizens, Law Enforcement and Other Stakeholders: A Scalable Architecture for Community Policing". In (eds.) AKHGAR, Babak, BAYERL, Petra-Saskia & LEVANTAKIS, George. Social Media Strategy in Policing. Springer. 139-158
